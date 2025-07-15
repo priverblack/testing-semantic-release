@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/priverblack/testing-semantic-release/compare/v1.0.0...v1.1.0) (2025-07-15)
+
+
+### Features
+
+* add subtract() ([a1b6aed](https://github.com/priverblack/testing-semantic-release/commit/a1b6aedb186a01697a374268990a53392c964344))
+
 # 1.0.0 (2025-07-15)
 
 
