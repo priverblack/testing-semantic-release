@@ -1,0 +1,23 @@
+{
+  "name": "testing-semantic-release",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "homepage": "https://github.com/priverblack/testing-semantic-release",
+  "bugs": {
+    "url": "https://github.com/priverblack/testing-semantic-release/issues"
+  },
+  "author": "Paulo Preto",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priverblack/testing-semantic-release.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "type": "module",
+  "license": "MIT",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
