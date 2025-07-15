@@ -18,10 +18,14 @@
   "license": "MIT",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "ci": "npm run build && npm run test",
+    "test": "vitest run"
   },
   "devDependencies": {
     "semantic-release": "^24.2.7",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "vite": "^7.0.4",
+    "vitest": "^3.2.4"
   }
 }
