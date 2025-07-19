@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/priverblack/testing-semantic-release/compare/v1.1.0...v1.1.1) (2025-07-19)
+
+
+### Bug Fixes
+
+* **ci:** add run to the ci command and install dependencies ([abf0add](https://github.com/priverblack/testing-semantic-release/commit/abf0add63558901e29dd381f1ddea3fcab7dc69a))
+
 # [1.1.0](https://github.com/priverblack/testing-semantic-release/compare/v1.0.0...v1.1.0) (2025-07-15)
 
 
