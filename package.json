@@ -19,7 +19,7 @@
   "license": "MIT",
   "description": "",
   "scripts": {
-    "build": "tsc",
+    "build": "rm -rf dist && tsc",
     "ci": "npm run build && npm run test",
     "test": "vitest run"
   },
@@ -30,6 +30,7 @@
     "@semantic-release/github": "^11.0.3",
     "@semantic-release/npm": "^12.0.2",
     "@semantic-release/release-notes-generator": "^14.0.3",
+    "@total-typescript/tsconfig": "^1.0.4",
     "semantic-release": "^24.2.7",
     "typescript": "^5.8.3",
     "vite": "^7.0.4",
