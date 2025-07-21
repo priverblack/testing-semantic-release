@@ -13,3 +13,5 @@ export const add = (a: number, b: number) => a + b;
  * @returns
  */
 export const subtract = (a: number, b: number) => a - b;
+
+export const times = (a: number, b: number) => a * b;
