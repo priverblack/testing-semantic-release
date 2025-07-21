@@ -1,3 +1,10 @@
+# [1.2.0-beta.1](https://github.com/priverblack/testing-semantic-release/compare/v1.1.1...v1.2.0-beta.1) (2025-07-21)
+
+
+### Features
+
+* add times() ([cf9e8cf](https://github.com/priverblack/testing-semantic-release/commit/cf9e8cfff423162d66e1ca080502d131449e410b))
+
 ## [1.1.1](https://github.com/priverblack/testing-semantic-release/compare/v1.1.0...v1.1.1) (2025-07-19)
 
 
