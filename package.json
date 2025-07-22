@@ -30,9 +30,11 @@
     "ci": "npm run build && npm run check-format && npm run test",
     "test": "vitest run",
     "format": "prettier --write .",
-    "check-format": "prettier --check ."
+    "check-format": "prettier --check .",
+    "check-exports": "attw --pack . --ignore-rules=cjs-resolves-to-esm"
   },
   "devDependencies": {
+    "@arethetypeswrong/cli": "^0.18.2",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/git": "^10.0.1",
