@@ -1,1 +1,3 @@
-export { add, subtract, times } from "./utils.js";
+export * from "./add.js";
+export * from "./subtract.js";
+export * from "./times.js";
