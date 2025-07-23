@@ -1,5 +1,5 @@
 import { describe, expect, test } from 'vitest';
-import { add } from '../add.js';
+import { add } from '../src/add.js';
 
 describe('add', () => {
   test('basic test', () => {

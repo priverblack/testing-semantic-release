@@ -1,5 +1,5 @@
 import { describe, expect, test } from 'vitest';
-import { times } from '../times.js';
+import { times } from '../src/times.js';
 
 describe('times', () => {
   test('basic test', () => {
