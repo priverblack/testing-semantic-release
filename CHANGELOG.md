@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/priverblack/testing-semantic-release/compare/v1.1.1...v1.2.0) (2025-07-23)
+
+
+### Bug Fixes
+
+* include types field and exports map for proper IntelliSense support ([d639a10](https://github.com/priverblack/testing-semantic-release/commit/d639a1055957afdf793f41d49f6f5450755bb1b5))
+
+
+### Features
+
+* add times() ([cf9e8cf](https://github.com/priverblack/testing-semantic-release/commit/cf9e8cfff423162d66e1ca080502d131449e410b))
+
 # [1.2.0-beta.2](https://github.com/priverblack/testing-semantic-release/compare/v1.2.0-beta.1...v1.2.0-beta.2) (2025-07-21)
 
 ### Bug Fixes
