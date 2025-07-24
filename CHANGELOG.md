@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/priverblack/testing-semantic-release/compare/v1.2.0...v1.2.1) (2025-07-24)
+
+
+### Bug Fixes
+
+* remove test files from the bundle ([cca2af9](https://github.com/priverblack/testing-semantic-release/commit/cca2af9a4a9d63978131d2a4ef41ab5cd5c763e7))
+
 # [1.2.0](https://github.com/priverblack/testing-semantic-release/compare/v1.1.1...v1.2.0) (2025-07-23)
 
 
